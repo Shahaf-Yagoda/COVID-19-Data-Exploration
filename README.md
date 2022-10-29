@@ -9,5 +9,6 @@ In this project we use MySQL Workbench to explore global COVID 19 data
 ## Data Source
 https://ourworldindata.org/covid-deaths
 
-The data refers to the dates: January 1, 2020 to April 30, 2021
+The data refers to the dates between January 1, 2020 and April 30, 2021
+
 
